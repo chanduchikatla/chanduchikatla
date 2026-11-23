@@ -8,7 +8,7 @@
 🚀 DevOps • Cloud Engineer | AWS | CI/CD | Kubernetes | Terraform | Docker | Ansible
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/purna-chand)
-[![Gmail](https://img.shields.io/badge/Email-harikpalepu@gmail.com-red?logo=gmail&style=flat)](mailto:purnachand7569@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-purnachand7569@gmail.com-red?logo=gmail&style=flat)](mailto:purnachand7569@gmail.com)
 
 ---
 
